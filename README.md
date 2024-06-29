@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">My name is Ludwig and I'm a Web Developer, from France</p>
+<h1> align="left">My name is Ludwig and I'm a Web Developer, from France</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
