@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ludwig</h1>
 <h3 align="center">A passionate Web/Mobile   Developer from France</h3>
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ludwig-lindner64000/ </h3>
 <p align="left">
 </p>
+
+# My Projects : https://ldwglindnerdeveloppeurweb.netlify.app/
 
 # Technologies Used
 
