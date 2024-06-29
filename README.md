@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="left">📚 I'm currently learning ThreeJS<br>🎯 Goals: Flutter Applications<br>🎲 Fun fact: I'm a nerd 🤓</h1>
+<p align="left">📚 I'm currently learning ThreeJS<br>🎯 Goals: Flutter Applications<br>🎲 Fun fact: I'm a nerd 🤓</p>
 
 ###
 
