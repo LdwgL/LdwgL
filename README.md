@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-# My Projects : https://ldwglindnerdeveloppeurweb.netlify.app/
+# I love JavaScript & React 💛
 
 # Technologies Used
 
