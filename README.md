@@ -27,7 +27,7 @@
 <li>📧 Email <a href="mailto:ldwglindner@gmail.com">ldwglindner@gmail.com</a>
 <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/LdwgL/" rel="nofollow">LinkedIn</a>
 
-<h3 align="left">I code with</h3>
+<h3 align="left">Langages and tools 🛠️</h3>
 
 ###
 
