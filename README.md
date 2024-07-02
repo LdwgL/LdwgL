@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<h3 align="left">About me</h3>
 
 ###
  
@@ -23,11 +23,11 @@
 
 ###
 
-<h1 align="left">Contact me</h1>
+<h3 align="left">Contact me</h3>
 <li>📧 Email <a href="mailto:ldwglindner@gmail.com">ldwglindner@gmail.com</a>
 <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/LdwgL/" rel="nofollow">LinkedIn</a>
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
