@@ -17,7 +17,7 @@
 ###
 
 <p align="left">📚 I'm currently learning ThreeJS<br><br>
-  📫 How to reach me mailto: ldwglindner@gmail.com<br>
+  📫 How to reach me <a href="mailto:ldwglindner@gmail.com">ldwglindner@gmail.com</a><br>
   🎯 Goals: Flutter Applications<br>🎲 
   Fun fact: I'm a nerd 🤓</p>
 
