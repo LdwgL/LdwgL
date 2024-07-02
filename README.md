@@ -18,8 +18,8 @@
 
 <p align="left">📚 I'm currently learning ThreeJS<br><br>
   <li>📫 How to reach me <a href="mailto:ldwglindner@gmail.com">ldwglindner@gmail.com</a><br>
-  <li>🎯 Goals : Flutter Applications and create a video game<br>🎲 
-  <li>Fun fact: Videos Games, Painting, Sport </p>
+  <li>🎯 Goals : Flutter Applications and create a video game<br>
+  <li>🎲Fun fact: Videos Games, Painting, Sport </p>
 
 ###
 
