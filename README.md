@@ -16,9 +16,9 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ThreeJS<br>🎯<br>
-  📫 How to reach me ldwglindner@gmail.com
-  Goals: Flutter Applications<br>🎲 
+<p align="left">📚 I'm currently learning ThreeJS<br><br>
+  📫 How to reach me ldwglindner@gmail.com<br>
+  🎯 Goals: Flutter Applications<br>🎲 
   Fun fact: I'm a nerd 🤓</p>
 
 ###
