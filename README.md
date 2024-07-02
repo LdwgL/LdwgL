@@ -50,6 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/2772ea024bb70d5b369d4e0400d5dc6ed949e08776043d46a3fe4d2def8a780e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6769742f463035303332" height="40" alt="git logo" data-canonical-src="https://cdn.simpleicons.org/git/F05032"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
 </div>
 
