@@ -24,6 +24,7 @@
 ###
 
 <h1 align="left">Contact me</h1>
+<li>📧 Email
 
 <h2 align="left">I code with</h2>
 
