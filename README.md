@@ -24,7 +24,7 @@
 ###
 
 <h1 align="left">Contact me</h1>
-<li>📧 Email
+<li>📧 Email <a href="mailto:ldwglindner@gmail.com">ldwglindner@gmail.com</a>
 
 <h2 align="left">I code with</h2>
 
