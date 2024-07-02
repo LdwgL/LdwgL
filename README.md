@@ -8,7 +8,7 @@
 
 ###
 
-<h1>My name is Ludwig and I'm a Web Developer, from France.</h1>
+<h1>Hi ! My name is Ludwig and I'm a Web Developer, from France.</h1>
 
 ###
 
