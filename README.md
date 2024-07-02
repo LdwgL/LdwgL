@@ -8,7 +8,7 @@
 
 ###
 
-<h1>Hi ! My name is Ludwig and I'm a Web Developer, from France.</h1>
+<h1>My name is Ludwig and I'm a Web Developer, from France.</h1>
 
 ###
 
@@ -22,6 +22,8 @@
   <li>🎲 Fun fact: Videos Games, Painting, Sport </p>
 
 ###
+
+<h1 align="left">About me</h1>
 
 <h2 align="left">I code with</h2>
 
