@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="left">Contact me</h1>
 
 <h2 align="left">I code with</h2>
 
